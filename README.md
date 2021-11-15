@@ -3,9 +3,9 @@ api backend
 Prof. Davi Maçana.
 
 Grupo 3:
-  Antônio Alves
-  Carolina Tardin
-  Diego Faria
-  Gilnei Lima
-  Pedro Coelho
+  Antônio Alves<br/>
+  Carolina Tardin<br/>
+  Diego Faria<br/>
+  Gilnei Lima<br/>
+  Pedro Coelho<br/>
  
